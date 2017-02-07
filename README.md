@@ -6,5 +6,5 @@
 
 [AnyEvent](https://metacpan.org/pod/AnyEvent) - the DBI of event loop programming
 
-[CHI](https://metacpan.org/pod/CHI) - CHI - Unified cache handling interface
+[CHI](https://metacpan.org/pod/CHI) - Unified cache handling interface
 
