@@ -5,3 +5,6 @@
 [Parallel::ForkManager](https://metacpan.org/pod/Parallel::ForkManager) - A simple parallel processing fork manager
 
 [AnyEvent](https://metacpan.org/pod/AnyEvent) - the DBI of event loop programming
+
+[CHI](https://metacpan.org/pod/CHI) - CHI - Unified cache handling interface
+
