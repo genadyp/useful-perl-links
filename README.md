@@ -8,3 +8,5 @@
 
 [CHI](https://metacpan.org/pod/CHI) - Unified cache handling interface
 
+[Linux::Info](https://metacpan.org/pod/release/ARFREITAS/Linux-Info-1.1/lib/Linux/Info.pm) API in Perl to recover information about the running Linux OS
+
