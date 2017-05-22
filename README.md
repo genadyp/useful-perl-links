@@ -10,3 +10,5 @@
 
 [Linux::Info](https://metacpan.org/pod/release/ARFREITAS/Linux-Info-1.1/lib/Linux/Info.pm) - API in Perl to recover information about the running Linux OS
 
+[App::scan_prereqs_cpanfile](https://metacpan.org/pod/distribution/App-scan_prereqs_cpanfile/script/scan-prereqs-cpanfile) - Scan prerequisite modules and generate CPANfile
+
