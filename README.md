@@ -15,3 +15,7 @@
 [Carton](https://metacpan.org/pod/Carton) - Perl module dependency manager (aka Bundler for Perl)
 
 [Data::Table](https://metacpan.org/pod/Data::Table) - Data type related to database tables, spreadsheets, CSV/TSV files, HTML table displays, etc.
+
+[Net::OpenSSH](https://metacpan.org/pod/Net::OpenSSH) - Perl SSH client package implemented on top of OpenSSH
+
+[Rex](https://metacpan.org/pod/Rex) - Remote Execution
