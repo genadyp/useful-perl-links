@@ -12,3 +12,4 @@
 
 [App::scan_prereqs_cpanfile](https://metacpan.org/pod/distribution/App-scan_prereqs_cpanfile/script/scan-prereqs-cpanfile) - Scan prerequisite modules and generate CPANfile
 
+[Carton](https://metacpan.org/pod/Carton) - Perl module dependency manager (aka Bundler for Perl)
