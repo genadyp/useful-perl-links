@@ -13,3 +13,5 @@
 [App::scan_prereqs_cpanfile](https://metacpan.org/pod/distribution/App-scan_prereqs_cpanfile/script/scan-prereqs-cpanfile) - Scan prerequisite modules and generate CPANfile
 
 [Carton](https://metacpan.org/pod/Carton) - Perl module dependency manager (aka Bundler for Perl)
+
+[Data::Table](https://metacpan.org/pod/Data::Table) - Data type related to database tables, spreadsheets, CSV/TSV files, HTML table displays, etc.
