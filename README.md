@@ -31,3 +31,6 @@
 
 [PDF::API2](https://metacpan.org/pod/PDF::API2) - Facilitates the creation and modification of PDF files
 
+#### Terminal
+
+[Term::ANSIColor](https://metacpan.org/pod/Term::ANSIColor) - https://metacpan.org/pod/Term::ANSIColor
