@@ -19,3 +19,8 @@
 [Net::OpenSSH](https://metacpan.org/pod/Net::OpenSSH) - Perl SSH client package implemented on top of OpenSSH
 
 [Rex](https://metacpan.org/pod/Rex) - Remote Execution
+
+
+#### Web
+
+[URI::Escape](https://metacpan.org/pod/URI::Escape) - Percent-encode and percent-decode unsafe characters
