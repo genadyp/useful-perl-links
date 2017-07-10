@@ -20,16 +20,21 @@
 
 [Rex](https://metacpan.org/pod/Rex) - Remote Execution
 
+---------
 
 #### Web
 
 [URI::Escape](https://metacpan.org/pod/URI::Escape) - Percent-encode and percent-decode unsafe characters
+
+---------
 
 #### Text
 
 ##### Binary Text
 
 [PDF::API2](https://metacpan.org/pod/PDF::API2) - Facilitates the creation and modification of PDF files
+
+---------
 
 #### Terminal
 
