@@ -26,6 +26,10 @@
 
 [URI::Escape](https://metacpan.org/pod/URI::Escape) - Percent-encode and percent-decode unsafe characters
 
+[PocketIO](https://metacpan.org/pod/PocketIO) - Socket.IO PSGI application
+
+[mercury](https://metacpan.org/pod/distribution/Mercury/bin/mercury) - A message broker for WebSockets
+
 ---------
 
 #### Text
@@ -39,3 +43,44 @@
 #### Terminal
 
 [Term::ANSIColor](https://metacpan.org/pod/Term::ANSIColor) - https://metacpan.org/pod/Term::ANSIColor
+
+---------
+
+#### Utils
+
+##### List/Array Utils
+
+[List::Slice](https://metacpan.org/pod/List::Slice) - Slice-like operations on listses
+
+[List::UtilsBy](https://metacpan.org/pod/List::UtilsBy) - higher-order list utility functions
+
+[List::Util](https://metacpan.org/pod/List::Util) - A selection of general-utility list subroutines
+
+[List::MoreUtils](https://metacpan.org/pod/List::MoreUtils) - Provide the stuff missing in List::Util
+
+[List::AllUtils](https://metacpan.org/pod/List::AllUtils) - Combines List::Util, List::SomeUtils and List::UtilsBy in one bite-sized package
+
+[List::Objects::WithUtils](https://metacpan.org/pod/List::Objects::WithUtils) - List objects, kitchen sink included
+
+[Array::Set](https://metacpan.org/pod/Array::Set) - Perform set operations on arrays
+
+[Array::Utils](https://metacpan.org/pod/Array::Utils) - small utils for array manipulation
+
+[Array::Split](https://metacpan.org/pod/Array::Split) - split an array into sub-arrays
+
+---------
+
+#### Types
+
+[Type::Utils](https://metacpan.org/pod/Type::Utils) - utility functions to make defining and using type constraints a little easier
+
+---------
+
+#### Data
+
+[Data::Dump](https://metacpan.org/pod/Data::Dump) - Pretty printing of data structures
+
+[Var::Pairs](https://metacpan.org/pod/Var::Pairs) - OO iterators and pair constructors for variables
+
+
+
