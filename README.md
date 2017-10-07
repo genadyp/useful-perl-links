@@ -30,6 +30,8 @@
 
 [mercury](https://metacpan.org/pod/distribution/Mercury/bin/mercury) - A message broker for WebSockets
 
+[HTTP::Message](https://metacpan.org/pod/HTTP::Message) - HTTP style message
+
 ---------
 
 #### Text
