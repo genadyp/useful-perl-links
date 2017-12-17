@@ -86,5 +86,9 @@
 
 [Var::Pairs](https://metacpan.org/pod/Var::Pairs) - OO iterators and pair constructors for variables
 
+---------
 
+#### IO
+
+[PerlIO::gzip](Perl extension to provide a PerlIO layer to gzip/gunzip) - Perl extension to provide a PerlIO layer to gzip/gunzip
 
