@@ -90,5 +90,5 @@
 
 #### IO
 
-[PerlIO::gzip](Perl extension to provide a PerlIO layer to gzip/gunzip) - Perl extension to provide a PerlIO layer to gzip/gunzip
+[PerlIO::gzip](https://metacpan.org/pod/PerlIO::gzip) - Perl extension to provide a PerlIO layer to gzip/gunzip
 
