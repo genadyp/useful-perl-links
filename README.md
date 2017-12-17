@@ -52,6 +52,8 @@
 
 [Util::Underscore](https://metacpan.org/pod/Util::Underscore) - Common helper functions without having to import them
 
+[Sentinel](https://metacpan.org/pod/Sentinel) - create lightweight SCALARs with get/set callbacks
+
 ##### List/Array Utils
 
 [List::Slice](https://metacpan.org/pod/List::Slice) - Slice-like operations on listses
