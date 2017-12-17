@@ -92,3 +92,5 @@
 
 [PerlIO::gzip](https://metacpan.org/pod/PerlIO::gzip) - Perl extension to provide a PerlIO layer to gzip/gunzip
 
+[Compress::Zlib](https://metacpan.org/pod/Compress::Zlib) - Interface to zlib compression library
+
