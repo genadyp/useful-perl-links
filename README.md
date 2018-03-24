@@ -86,6 +86,8 @@
 
 [Data::Dump](https://metacpan.org/pod/Data::Dump) - Pretty printing of data structures
 
+[Data::Printer](https://metacpan.org/pod/Data::Printer) - colored pretty-print of Perl data structures and objects
+
 [Var::Pairs](https://metacpan.org/pod/Var::Pairs) - OO iterators and pair constructors for variables
 
 ---------
@@ -96,3 +98,16 @@
 
 [Compress::Zlib](https://metacpan.org/pod/Compress::Zlib) - Interface to zlib compression library
 
+---------
+
+#### File System
+
+[Path::Iterator::Rule](https://metacpan.org/pod/Path::Iterator::Rule) - Iterative, recursive file finder
+
+[File::Find::Rule](https://metacpan.org/pod/File::Find::Rule) - Alternative interface to File::Find
+
+[Path::Tiny](https://metacpan.org/pod/Path::Tiny) - File path utility
+
+[Path::Class](https://metacpan.org/pod/Path::Class) - Cross-platform path specification manipulation
+
+[File::Spec](https://metacpan.org/pod/File::Spec) - portably perform operations on file names
