@@ -21,6 +21,12 @@
 [Rex](https://metacpan.org/pod/Rex) - Remote Execution
 
 ---------
+ 
+#### DateTime
+
+[DateTime](https://metacpan.org/pod/DateTime) - A date and time object for Perl
+
+---------
 
 #### Web
 
@@ -36,9 +42,13 @@
 
 #### Text
 
-##### Binary Text
+##### PDF
 
 [PDF::API2](https://metacpan.org/pod/PDF::API2) - Facilitates the creation and modification of PDF files
+
+##### Excel
+
+[Spreadsheet::GenerateXLSX](https://metacpan.org/pod/Spreadsheet::GenerateXLSX) - Function to generate XLSX spreadsheet from array ref(s)
 
 ---------
 
@@ -53,6 +63,8 @@
 [Util::Underscore](https://metacpan.org/pod/Util::Underscore) - Common helper functions without having to import them
 
 [Sentinel](https://metacpan.org/pod/Sentinel) - create lightweight SCALARs with get/set callbacks
+
+[Ref::Util](https://metacpan.org/pod/Ref::Util) - Utility functions for checking references
 
 ##### List/Array Utils
 
