@@ -58,6 +58,12 @@
 
 ---------
 
+#### Desktop
+
+[Perl Executing Browser](https://github.com/ddmitov/perl-executing-browser) - HTML5 user interface for Perl 5 desktop applications
+
+---------
+
 #### Utils
 
 [Util::Underscore](https://metacpan.org/pod/Util::Underscore) - Common helper functions without having to import them
