@@ -50,6 +50,10 @@
 
 [Spreadsheet::GenerateXLSX](https://metacpan.org/pod/Spreadsheet::GenerateXLSX) - Function to generate XLSX spreadsheet from array ref(s)
 
+##### XML
+
+[XML::MyXML](https://metacpan.org/pod/XML::MyXML) - A simple-to-use XML module, for parsing and creating XML documents
+
 ---------
 
 #### Terminal
