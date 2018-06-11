@@ -102,6 +102,8 @@
 
 [Type::Utils](https://metacpan.org/pod/Type::Utils) - utility functions to make defining and using type constraints a little easier
 
+[Types::Bool](https://metacpan.org/pod/Types::Bool) - An interface to booleans as objects for Perl
+
 ---------
 
 #### Data
