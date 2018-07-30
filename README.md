@@ -114,6 +114,8 @@
 
 [Var::Pairs](https://metacpan.org/pod/Var::Pairs) - OO iterators and pair constructors for variables
 
+[Hash::Ordered](https://metacpan.org/pod/Hash::Ordered) - A fast, pure-Perl ordered hash class
+
 ---------
 
 #### IO
