@@ -38,6 +38,8 @@
 
 [HTTP::Message](https://metacpan.org/pod/HTTP::Message) - HTTP style message
 
+[HTTP::Tiny](https://metacpan.org/pod/HTTP::Tiny) - A small, simple, correct HTTP/1.1 client
+
 ---------
 
 #### Text
