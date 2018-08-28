@@ -157,3 +157,9 @@
 #### Algorithms
 
 [Algorithm::Combinatorics](https://metacpan.org/pod/Algorithm::Combinatorics) - Efficient generation of combinatorial sequences
+
+---------
+
+#### OOP
+
+[Class::Tiny](https://metacpan.org/pod/Class::Tiny) - Minimalist class construction
