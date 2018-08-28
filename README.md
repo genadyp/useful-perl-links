@@ -110,6 +110,8 @@
 
 [Types::Bool](https://metacpan.org/pod/Types::Bool) - An interface to booleans as objects for Perl
 
+[Type::Tiny](https://metacpan.org/pod/Type::Tiny) - tiny, yet Moo(se)-compatible type constraint
+
 ---------
 
 #### Data
@@ -163,3 +165,8 @@
 #### OOP
 
 [Class::Tiny](https://metacpan.org/pod/Class::Tiny) - Minimalist class construction
+
+[Role::Tiny](https://metacpan.org/pod/Role::Tiny) - Roles. Like a nouvelle cuisine portion size slice of Moose
+
+
+
