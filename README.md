@@ -152,3 +152,8 @@
 
 [Proc::Fork](https://metacpan.org/pod/Proc::Fork) - simple, intuitive interface to the fork() system call
 
+---------
+
+#### Algorithms
+
+[Algorithm::Combinatorics](https://metacpan.org/pod/Algorithm::Combinatorics) - Efficient generation of combinatorial sequences
