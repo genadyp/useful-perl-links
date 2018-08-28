@@ -26,6 +26,8 @@
 
 [DateTime](https://metacpan.org/pod/DateTime) - A date and time object for Perl
 
+[Time::Piece](https://metacpan.org/pod/Time::Piece) - Object Oriented time objects
+
 ---------
 
 #### Web
@@ -39,6 +41,8 @@
 [HTTP::Message](https://metacpan.org/pod/HTTP::Message) - HTTP style message
 
 [HTTP::Tiny](https://metacpan.org/pod/HTTP::Tiny) - A small, simple, correct HTTP/1.1 client
+
+[Web::Query](https://metacpan.org/pod/Web::Query) - Yet another scraping library like jQuery
 
 ---------
 
@@ -126,6 +130,8 @@
 
 [Compress::Zlib](https://metacpan.org/pod/Compress::Zlib) - Interface to zlib compression library
 
+[Archive::Zip](https://metacpan.org/pod/Archive::Zip) - Provide an interface to ZIP archive files
+
 ---------
 
 #### File System
@@ -139,3 +145,10 @@
 [Path::Class](https://metacpan.org/pod/Path::Class) - Cross-platform path specification manipulation
 
 [File::Spec](https://metacpan.org/pod/File::Spec) - portably perform operations on file names
+
+---------
+
+#### Multiprocess
+
+[Proc::Fork](https://metacpan.org/pod/Proc::Fork) - simple, intuitive interface to the fork() system call
+
